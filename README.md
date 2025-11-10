@@ -76,8 +76,7 @@ This repo shows programming fundamentals, iterative improvement, and steady skil
 
 ## 🎨 **Art & Creative Projects**  
 **Status:** 🎨 Active  
-**Link:** https://www.artstation.com/brads 
-(or leave out if you want to keep this separate)
+**Link:** https://www.artstation.com/brads
 
 Includes:
 
