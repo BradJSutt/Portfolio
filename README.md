@@ -111,12 +111,13 @@ Outside of tech, I’m also an illustrator and traditional artist. I spent 10+ y
 ### **Cybersecurity & Networking**
 - VLANs, routing, NAT, firewalling  
 - MikroTik RouterOS, Cisco IOS  
-- Linux (Mint, Debian, Ubuntu)  
+- Linux (Mint, Debian, Ubuntu, Kali)  
 - Network segmentation (zero trust)  
 - Threat modeling (STRIDE, kill chain)  
 - Secure documentation  
-- Wireshark, packet sniffing  
+- Wireshark, packet sniffing 
 - VPNs (WireGuard)  
+- Bloodhound, NMAP, Nessus, Gobuster, Hashcat, and more
 
 ### **Programming**
 - Python (beginner–intermediate)  
@@ -127,12 +128,12 @@ Outside of tech, I’m also an illustrator and traditional artist. I spent 10+ y
 
 ### **Systems & Tools**
 - VMWare Workstation  
-- Plex media server  
-- Prometheus/Grafana (monitoring)  
+- Plex media server   
 - Git & GitHub  
 
 ### **Creative**
 - Procreate / Digital art  
+- Photoshop
 - Graphic design & layout  
 - Documentation styling (government/DoD aesthetic)  
 
