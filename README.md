@@ -38,7 +38,7 @@ This project demonstrates intermediate-to-advanced skill in core cybersecurity a
 ---
 
 ## 🧪 **Cybersecurity Research & Assignments (NSCC)**  
-**Status:** 🔄 Ongoing  
+**Status:** 🔄 Ongoing - Under Construction
 **Repo:** https://github.com/BradJSutt/cybersecurity-assignments
 
 A curated collection of completed cybersecurity coursework, including:
@@ -57,7 +57,7 @@ This repo demonstrates formal academic and analytical cybersecurity work.
 ---
 
 ## 🐍 **Python Projects & Practice**  
-**Status:** 🔄 Ongoing  
+**Status:** 🔄 Ongoing - Under Construction
 **Repo:** https://github.com/BradJSutt/python-projects
 
 Includes:
@@ -76,7 +76,7 @@ This repo shows programming fundamentals, iterative improvement, and steady skil
 
 ## 🎨 **Art & Creative Projects**  
 **Status:** 🎨 Active  
-**Repo:** https://github.com/BradJSutt/art-portfolio  
+**Link:** https://www.artstation.com/brads 
 (or leave out if you want to keep this separate)
 
 Includes:
@@ -86,7 +86,6 @@ Includes:
 - Fantasy art concepts (D&D, MTG, etc.)  
 - Professional posters & prints  
 
-This showcases your range and personal branding.
 
 ---
 
