@@ -38,7 +38,7 @@ This project demonstrates intermediate-to-advanced skill in core cybersecurity a
 ---
 
 ## 🧪 **Cybersecurity Research & Assignments (NSCC)**  
-**Status:** 🔄 Ongoing - Under Construction
+**Status:** 🔄 Ongoing - Under Construction  
 **Repo:** https://github.com/BradJSutt/cybersecurity-assignments
 
 A curated collection of completed cybersecurity coursework, including:
@@ -57,7 +57,7 @@ This repo demonstrates formal academic and analytical cybersecurity work.
 ---
 
 ## 🐍 **Python Projects & Practice**  
-**Status:** 🔄 Ongoing - Under Construction
+**Status:** 🔄 Ongoing - Under Construction  
 **Repo:** https://github.com/BradJSutt/python-projects
 
 Includes:
